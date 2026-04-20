@@ -4,6 +4,7 @@ The classification model predicts whether a customer is likely to default on a l
 The major objectives of this project is to find the default probability.
 I have used Random Forest(Classification) and Ridge Regression(Regression).
 NOTE: As the dataset was very large, we can acces it from(https://www.kaggle.com/datasets/wordsforthewise/lending-club)
+
 Main Libraries used for this project:
 - **Pandas** → Data manipulation and analysis  
 - **NumPy** → Numerical computations  
